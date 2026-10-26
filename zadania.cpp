@@ -7,7 +7,7 @@ int main() {
 	wpisywanie();
 }
 void wpisywanie(string imie) {
-	cout << "Czesc " << imie << endl;
+	cout << "Czesc " << imie << endl; 
 }
 //zadanie 2
 int i = 0;
